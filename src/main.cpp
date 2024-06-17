@@ -7,7 +7,7 @@
 #include <openssl/sha.h>
 
 void deckTesting();
-int serverTesting();
+int serverTesting();       
 
 int main() {
 	serverTesting();
